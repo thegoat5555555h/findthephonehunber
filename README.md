@@ -4,7 +4,7 @@ The requests library (install via pip install requests)
 Usage
 Run the code in a Python environment.
 Enter the person's name and last name when prompted.
-The code will perform a search on a website (example.com) using the provided name.
+The code will perform a search on a website -(example.com) using the provided name.
 If a phone number is found, it will be displayed along with the person's name and last name.
 The code will then prompt you to visit a website.
 If you enter 'y' (case-insensitive), it will open a PayPal donation link in your default web browser.
